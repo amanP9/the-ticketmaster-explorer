@@ -52,6 +52,8 @@ To use Ticketmaster Explorer, you must have Node.js and npm installed on your co
 
 Ticketmaster Explorer utilizes the Ticketmaster API to retrieve event data. You can find the API documentation here.
 
+- https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/
+
 ## Contributing
 
 If you would like to contribute to Ticketmaster Explorer, please feel free to submit a pull request. Before submitting a pull request, please make sure to run the tests and ensure that they all pass.
