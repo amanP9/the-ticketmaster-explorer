@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    background: linear-gradient(to right, #6DD5FA, #2980B9, #A9DEF9);
+
+    font-family: 'Lato', 'Sagoe UI', Tahoma, Verdana, sans-serif;
+}
